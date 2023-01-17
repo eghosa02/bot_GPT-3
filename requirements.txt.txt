@@ -1,0 +1,6 @@
+discord
+openai
+sqlite3
+pillow
+io
+os
